@@ -1,0 +1,1 @@
+select max(Email) as Email from Person1 group by(Email) having count(Email) >=2;

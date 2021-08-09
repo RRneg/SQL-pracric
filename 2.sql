@@ -1,0 +1,1 @@
+select Salary from Employee order by salary desc limit 1, 1;
